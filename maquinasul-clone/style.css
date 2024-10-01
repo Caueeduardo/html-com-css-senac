@@ -11,7 +11,7 @@ body{
 }
 
 .corpo {
-    height: 428px;
+    height: 419px;
 }
 
 .image-topo{
@@ -27,9 +27,11 @@ img {
     color: #fff;
     text-align: center;
     text-transform: uppercase;
-    font-weight: bold;
-    /* min-height: 30px; */
-    padding-top: 15px;    
+    font-weight: bold;    
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
 }
 
 /* menu */
