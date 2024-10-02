@@ -18,6 +18,7 @@ html-com-css-senac
 * Cauê - menor de idade - precisa de autorização - verificar
 * Vinicius - verificar
 * Adriano - pode ir sem problemas - verificar - 14,15,16 outubro -  não vai estar
+* HELTON - VERIFICAR
 
 
 
