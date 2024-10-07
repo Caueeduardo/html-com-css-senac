@@ -11,14 +11,19 @@ html-com-css-senac
 * clone do site abaixo:
 
 # Alunos viagem Blumenau
-* Romulo- ver sobre justificativa do Senac.
-* Bruna - ver sobre justificativa do Senac.
+## Tem disponibilidade
+* Adriano - pode ir sem problemas - verificar - 14,15,16 outubro -  não vai estar
 * Phamela - nao pode no dia 21 de outubro
 * Ryan - menor de idade - precisa de autorização
+* Vinicius - sim
+
+## Verificando 
+* Bruna - verificando...
+* Helton - verificando...
+
+## Não vai
+* Romulo - não vai
 * Cauê - menor de idade - precisa de autorização - verificar
-* Vinicius - verificar
-* Adriano - pode ir sem problemas - verificar - 14,15,16 outubro -  não vai estar
-* HELTON - VERIFICAR
 
 
 
