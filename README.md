@@ -71,6 +71,10 @@ Local dos projetos para clone:23 projetos para clone
 https://www.precisaoweb.com.br/?pg=portfolio
 https://arealocal.com.br/portfolio/
 
+# Propaganda gratis com IA 
+
+Inteligencia Artificial meow - whatsapp
+propaganda gratis com IA , pelo facebook e instagram e linkedin.
 
 
 
