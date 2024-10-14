@@ -1,6 +1,22 @@
 # html-com-css-senac
 html-com-css-senac
 
+# Aula 14-10-2024
+* Montagem do Portfolio - 
+   * Pagina de lista de portfolios
+   * Colocar os portfolios feitos na pagina
+* Publicação do Portfolio em formato de pagina do github
+* Publicação no Linkedin
+
+# Aula 15-10-2024
+Iniciar o Projeto de Cantina Digital
+Criar no maximo umas 3 telas
+usar ASAAS
+
+
+#############################################
+
+
 # Aula 25-09-2024
 * html basico 
 * display:flex
